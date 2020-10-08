@@ -1,6 +1,6 @@
 {
   "name": "@casperengl/apollo-composable",
-  "version": "4.0.0-alpha.12",
+  "version": "4.0.0-alpha.15",
   "description": "Apollo GraphQL for Vue Composition API",
   "repository": {
     "type": "git",
@@ -49,6 +49,5 @@
     "@types/throttle-debounce": "^2.1.0",
     "@vue/composition-api": "^0.6.1",
     "typescript": "^3.7.2"
-  },
-  "gitHead": "1886219d83c4776bb282ad017851f8970fd995c6"
+  }
 }
